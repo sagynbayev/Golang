@@ -1,1 +1,1 @@
-AMG
+This application is calory calculator that use Mifflin San Geora formula to calculate how many calories people may burn. I use "fmt", "encoding/json", "testing", "time" packages for this program. This program take weight, height, age, activite and gender to calculate calories and then we could encode this informations with json. 
